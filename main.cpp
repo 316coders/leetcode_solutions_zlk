@@ -1,5 +1,5 @@
 //
-// Created by zale on 2020/6/8.
+// Created by zale on 2020/6/28.
 //
 
 
@@ -8,7 +8,16 @@
 #include <unordered_map>
 #include <map>
 #include <array>
+#include <vector>
 
-using namespace std;
+using  namespace std;
 
+class Solution {
+public:
 
+};
+
+int main(){
+
+    Solution s;
+}
